@@ -10,6 +10,7 @@ import {DataRows} from './components/DataRows';
 const useStyles = makeStyles({
   paper:{
     height: 'auto',
+    minHeight: '100vh',
   },
   colGrid: {
     width: '100%',
